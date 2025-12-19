@@ -1,0 +1,8 @@
+
+node_modules/
+.expo/
+dist/
+build/
+.expo-shared/
+.DS_Store
+Thumbs.db
